@@ -1,0 +1,1 @@
+{"name":"Local: practice","url":"c:\\Users\\User\\Desktop\\c++\\problem_solving\\practice.cpp","tests":[{"id":1669488503887,"input":"3\n1\n3\n6","output":"East\nWest\nSouth"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\Desktop\\c++\\problem_solving\\practice.cpp","group":"local","local":true}

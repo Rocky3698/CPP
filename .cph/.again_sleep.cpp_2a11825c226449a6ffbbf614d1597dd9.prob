@@ -1,0 +1,1 @@
+{"name":"Local: again_sleep","url":"c:\\Users\\User\\Desktop\\c++\\again_sleep.cpp","tests":[{"id":1669317517077,"input":"4\n10 20 3\n36 36 5\n50 4 100\n30 4 2","output":"4\n0\n1\n13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\Desktop\\c++\\again_sleep.cpp","group":"local","local":true}

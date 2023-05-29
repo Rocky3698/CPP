@@ -1,0 +1,1 @@
+{"name":"Local: i","url":"c:\\Users\\User\\Desktop\\c++\\merathon\\i.cpp","tests":[{"id":1677147609896,"input":"3 1000 2 3\n200\n0 2 2\n300\n27 3 20","output":"900"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\Desktop\\c++\\merathon\\i.cpp","group":"local","local":true}

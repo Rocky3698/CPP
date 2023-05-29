@@ -1,0 +1,1 @@
+{"name":"Local: any","url":"c:\\Users\\User\\Desktop\\c++\\OOP\\any.cpp","tests":[{"id":1677504121527,"input":"November\n3","output":"February"},{"id":1677603517505,"input":"May\n24","output":"May"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\Desktop\\c++\\OOP\\any.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Shortest_path_for_king","url":"c:\\Users\\User\\Desktop\\c++\\Shortest_path_for_king.cpp","tests":[{"id":1677308416336,"input":"a8\nh1","output":"7\nRD\nRD\nRD\nRD\nRD\nRD\nRD"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\Desktop\\c++\\Shortest_path_for_king.cpp","group":"local","local":true}
